@@ -17,7 +17,7 @@ From the given ‘Iris’ dataset, predict the optimum number of
 clusters and represent it visually.
 Dataset :
 https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
-GitHub Link: 
+GitHub Link: https://github.com/rucha1101/The-Spark-Foundation-Internship-/blob/master/%20Sparks_foundation%203.ipynb
 
 
 
@@ -26,7 +26,7 @@ For the given ‘Iris’ dataset, create the Decision Tree classifier and
 visualize it graphically. The purpose is if we feed any new data to this
 classifier, it would be able to predict the right class accordingly.
 Dataset : https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
-GitHub Link: 
+GitHub Link: https://github.com/rucha1101/The-Spark-Foundation-Internship-/blob/master/%20Sparks_foundation%204.ipynb
 
 
 
@@ -40,6 +40,6 @@ What all business problems you can derive by looking into the
 data? You can choose any of the tool of your choice
 (Python/R/ PowerBI /Excel)
 Dataset: https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
-GitHub Link: 
+GitHub Link: https://github.com/rucha1101/The-Spark-Foundation-Internship-/blob/master/%20Sparks_foundation%20TASK%205.ipynb
 
 ## Videos Link
