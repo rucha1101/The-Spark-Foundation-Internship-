@@ -9,7 +9,7 @@ regression task as it involves just two variables.
 Data can be found at http://bit.ly/w data
 What will be predicted score if a student study 
 for 9.25 hrs in a day?
-GitHub Link: 
+GitHub Link: https://github.com/rucha1101/The-Spark-Foundation-Internship-/blob/master/Sparks_foundation%202.ipynb
 
 
 ## Task 3 To Explore Unsupervised Machine Learning
